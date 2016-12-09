@@ -2,7 +2,7 @@ package myinsertionsort;
 
 /**
  *
- * @author Nick Epp
+ * @author Nick Epp & Muchtaba
  */
 public class MyInsertionSortDecending {
 
